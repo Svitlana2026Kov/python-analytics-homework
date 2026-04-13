@@ -6,6 +6,6 @@ print(df)
 average_sales = df["sales"].mean()
 print("Середнє значення:", average_sales)
 average_sales = df["sales"].mean()
-print("Це середній рівень продажів по трьох містах")
+print("Це середній рівень продажів по трьох містах 23")
 
 
